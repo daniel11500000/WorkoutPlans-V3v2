@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(247, 238, 226);
+}
+
+.content {
+  height: 60rem;
+  color: black;
+  margin-top: 10rem;
+  font-size: 400%;
+  display: flex;
+  justify-content: center;
+}
+
+.subDivContainer {
+  display: none;
+}
