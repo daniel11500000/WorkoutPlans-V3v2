@@ -41,5 +41,5 @@ progSelect.forEach((el) => {
 });
 
 freeSelect.addEventListener("click", (e) => {
-  window.location.href = "../Extras/Gratis.html";
+  window.location.href = "../Extras/gratis.html";
 });
